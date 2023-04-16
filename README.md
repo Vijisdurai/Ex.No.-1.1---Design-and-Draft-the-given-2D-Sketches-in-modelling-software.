@@ -42,6 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Ex_1 1 Drawing v3 VIJIS](https://user-images.githubusercontent.com/118343184/232287793-eda26788-6bc4-4697-ae17-c0529d1ad0f0.png)
+
 
 
 ## RESULT
